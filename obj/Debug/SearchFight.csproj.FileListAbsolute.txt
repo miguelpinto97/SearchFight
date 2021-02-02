@@ -1,0 +1,10 @@
+C:\Users\miguel.pinto\Music\SearchFight\bin\Debug\SearchFight.exe.config
+C:\Users\miguel.pinto\Music\SearchFight\bin\Debug\SearchFight.exe
+C:\Users\miguel.pinto\Music\SearchFight\bin\Debug\SearchFight.pdb
+C:\Users\miguel.pinto\Music\SearchFight\bin\Debug\Newtonsoft.Json.dll
+C:\Users\miguel.pinto\Music\SearchFight\bin\Debug\Newtonsoft.Json.xml
+C:\Users\miguel.pinto\Music\SearchFight\obj\Debug\SearchFight.csprojAssemblyReference.cache
+C:\Users\miguel.pinto\Music\SearchFight\obj\Debug\SearchFight.csproj.CoreCompileInputs.cache
+C:\Users\miguel.pinto\Music\SearchFight\obj\Debug\SearchFight.csproj.CopyComplete
+C:\Users\miguel.pinto\Music\SearchFight\obj\Debug\SearchFight.exe
+C:\Users\miguel.pinto\Music\SearchFight\obj\Debug\SearchFight.pdb
